@@ -1,0 +1,65 @@
+body {
+  font-family: "Poppins", sans-serif;
+  }
+
+      /* hero area start here */
+
+.hero-btn {
+  background-color: #e02c6d;
+  padding: 10px 15px;
+  border-radius: 50px;
+}
+
+        /* hero area end here */
+
+      /* brand logo area start here  */
+.bl-area-border{
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+  padding: 40px 0;
+  border-image: radial-gradient(#666, #fff);
+  border-image-slice: 1;
+}
+
+     /* brand logo area end here  */
+
+      /* product post area start here */
+.ratings ul li a {
+  color: orange;
+}
+
+.see-more-btn {
+  color: #e02c6d;
+}
+
+     /* product post area End here */
+
+
+     /* feature area start here */
+.feature-area-btn{
+  background-color: #e02c6d;
+}
+
+          /* feature area end here */
+
+
+          /* footer area start here  */
+.footer-area {
+  background-color: #0a0826;
+}
+
+.footer-social-icons ul li {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50%;
+  background-color: #666;
+  text-align: center;
+  margin: 0 10px;
+}
+
+.footer-social-icons ul li a {
+  color: #fff;
+}
+
+        /* footer area end here */
